@@ -14,7 +14,7 @@
 
 ### O Projeto
 
-- O Projeto inicia numa tela de login, se autenticação
+- O Projeto inicia numa tela de login, sem autenticação
 - Ao fazer o login o state da aplicação inicia a guarda de informações, o que pode ser observado na tela principal, onde o nome do login é usado nas saudações
 - Para criar um post, teremos o botão Novo Post no header
 - O componente que torna possível inserir um novo post dará ao usuário um preview de como o post ficará
@@ -33,7 +33,7 @@
 
 - npm run test
 
-### Próximos Passos
+### Próximos Passos - (em desenvolvimento)
 
 - Desenvolver o contador de upvotes
 - Conectar com a API, ou desenvolver uma API no back com Node JS
