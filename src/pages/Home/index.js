@@ -35,6 +35,7 @@ const { posts } = useContext(ContextUpvote);
         <main className={classes.main}>
           { posts.length === 0 ? <FirstPage /> : posts.map(post => <PreviousPost key={ post.title } post={ post } /> )}
         </main>
+        <h3>Volte Sempre</h3>
     </div>
   )
 }

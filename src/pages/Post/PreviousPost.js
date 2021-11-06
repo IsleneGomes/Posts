@@ -58,7 +58,7 @@ export default function PreviousPost({ post }) {
       <div>
         <div className={classes.subheader}>
           <Typography variant='caption' className={classes.caption}>
-            {'Criado por'}
+            {'Postado por'}
           </Typography>
           <Typography variant='subtitle2' className={classes.caption}>
             {post.user}

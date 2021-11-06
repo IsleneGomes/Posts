@@ -10,7 +10,6 @@ export default function AllRotes() {
     <Route exact path='/' component={ Login } />
     <Route exact path='/home' component={ Home } />
     <Route exact path='/home/new' component={ New } />
-    <Route exact path='*' component={<h1>Not Found</h1>} />
   </Switch>
   )
 }
