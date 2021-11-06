@@ -3,7 +3,7 @@ import { MemoryRouter } from 'react-router-dom';
 import { fireEvent, render } from '@testing-library/react';
 import renderWithRouter from '../renderWithRouter';
 import App from '../App';
-import Home from '../pages/Home/index'
+// import Home from '../pages/Home/index'
 import Header from '../pages/Home/components/Header/index'
 
 describe('Testa o componente App.js', () => {

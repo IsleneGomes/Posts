@@ -32,6 +32,7 @@
 ### Testes
 
 - npm run test
+- Os testes ainda estão sendo implementados à medida que estudo a documentação
 
 ### Próximos Passos - (em desenvolvimento)
 
